@@ -1,3 +1,4 @@
 Rencana saya ke depan nya 
 - Saya ingin konsisten dalam belajar ilmu di bagian it 
 - Saya ingin mengetahui / mengerti beberapa konsep framework laravel
+- Saya ingin bisa membuat aplikasi sederhana dulu saja dengan menggunakan framework laravel 
